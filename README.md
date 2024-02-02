@@ -1,1 +1,1 @@
-this repo is about javascript ES6
+0x04-TypeScript
